@@ -1,14 +1,14 @@
-# =K Hey there, I'm Johannes Lindell!
+# 👋 Hey there, I'm Johannes Lindell!
 
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=.NET+Systems+Development+Student;Full+Stack+Developer;DevOps+Enthusiast;Always+Learning+%F0%9F%9A%80)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=.NET+Systems+Development+Student;Full+Stack+Developer;DevOps+Enthusiast;Always+Learning+🚀)
 
 </div>
 
 ---
 
-## =� About Me
+## 🚀 About Me
 
 I'm a **Systems Development in .NET** student with a passion for building tools that make developers' lives easier. I love diving deep into new technologies and creating solutions that solve real problems.
 
@@ -16,17 +16,17 @@ Currently crafting developer tools and exploring the intersection of systems pro
 
 ---
 
-## =� What I'm Building
+## 🛠️ What I'm Building
 
-### =' **CLI Tool Installer** _(Rust)_
+### 🔧 **CLI Tool Installer** _(Rust)_
 Building a powerful CLI tool that sets up complete development environments with pre-configured settings. One command to rule them all! Perfect for onboarding new machines or teammates.
 
-### =� **README Generator MCP Server** _(TypeScript)_
+### 📝 **README Generator MCP Server** _(TypeScript)_
 Created an MCP (Model Context Protocol) server that helps LLMs generate beautiful, comprehensive READMEs for any project. Making documentation easy and consistent!
 
 ---
 
-## =� Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -49,7 +49,7 @@ Created an MCP (Model Context Protocol) server that helps LLMs generate beautifu
 
 ---
 
-## =� GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -57,34 +57,32 @@ Created an MCP (Model Context Protocol) server that helps LLMs generate beautifu
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JojoSlice&layout=compact&theme=tokyonight&hide_border=true)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JojoSlice&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
 
-## <1 Currently Learning
+## 🌱 Currently Learning
 
-- >� Deep diving into **Rust** for systems programming
-- > Exploring **AI tooling** and MCP servers
-- � Building **DevOps pipelines** and automation tools
-- <� Mastering **.NET architecture** patterns
+- 🦀 Deep diving into **Rust** for systems programming
+- 🤖 Exploring **AI tooling** and MCP servers
+- ⚙️ Building **DevOps pipelines** and automation tools
+- 🏗️ Mastering **.NET architecture** patterns
 
 ---
 
-## =� Philosophy
+## 💡 Philosophy
 
 > "The best code is the code that makes other developers smile"
 
 I believe in:
-- <� **Writing clean, maintainable code**
-- > **Sharing knowledge and helping others**
-- = **Continuous learning and improvement**
-- =� **Building tools that empower developers**
+- 🎯 **Writing clean, maintainable code**
+- 🤝 **Sharing knowledge and helping others**
+- 🔄 **Continuous learning and improvement**
+- 🚀 **Building tools that empower developers**
 
 ---
 
-## =� Let's Connect!
+## 📫 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JojoSlice)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Johannes.Lindell@campusnykoping.se)
@@ -93,13 +91,13 @@ I believe in:
 
 <div align="center">
 
-  ### =� Random Dev Quote
+  ### 💭 Random Dev Quote
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
   ---
 
   ![Profile Views](https://komarev.com/ghpvc/?username=JojoSlice&color=blueviolet&style=for-the-badge)
 
-  **Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out!** P
+  **Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out!** ⭐
 
 </div>
