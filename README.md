@@ -16,16 +16,6 @@ Currently crafting developer tools and exploring the intersection of systems pro
 
 ---
 
-## 🛠️ What I'm Building
-
-### 🔧 **CLI Tool Installer** _(Rust)_
-Building a powerful CLI tool that sets up complete development environments with pre-configured settings. One command to rule them all! Perfect for onboarding new machines or teammates.
-
-### 📝 **README Generator MCP Server** _(TypeScript)_
-Created an MCP (Model Context Protocol) server that helps LLMs generate beautiful, comprehensive READMEs for any project. Making documentation easy and consistent!
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -63,22 +53,10 @@ Created an MCP (Model Context Protocol) server that helps LLMs generate beautifu
 
 ## 🌱 Currently Learning
 
-- 🦀 Deep diving into **Rust** for systems programming
-- 🤖 Exploring **AI tooling** and MCP servers
-- ⚙️ Building **DevOps pipelines** and automation tools
-- 🏗️ Mastering **.NET architecture** patterns
-
----
-
-## 💡 Philosophy
-
-> "The best code is the code that makes other developers smile"
-
-I believe in:
-- 🎯 **Writing clean, maintainable code**
-- 🤝 **Sharing knowledge and helping others**
-- 🔄 **Continuous learning and improvement**
-- 🚀 **Building tools that empower developers**
+- Looking into **Rust**
+- Exploring **Gleam** 
+- Building **DevOps pipelines** and automation tools
+- Mastering **.NET architecture** patterns
 
 ---
 
@@ -90,11 +68,6 @@ I believe in:
 ---
 
 <div align="center">
-
-  ### 💭 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-  ---
 
   ![Profile Views](https://komarev.com/ghpvc/?username=JojoSlice&color=blueviolet&style=for-the-badge)
 
