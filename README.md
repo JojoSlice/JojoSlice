@@ -38,22 +38,10 @@ Currently crafting developer tools and exploring the intersection of systems pro
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JojoSlice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JojoSlice&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🌱 Currently Learning
 
-- Looking into **Rust**
-- Exploring **Gleam** 
+- Looking into **Go**
 - Building **DevOps pipelines** and automation tools
 - Mastering **.NET architecture** patterns
 
